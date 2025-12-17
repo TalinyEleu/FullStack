@@ -49,6 +49,13 @@ O Manifesto ágil fundamenta-se nos seguintes valores:
 
 Detalhamento de cada um dos valores: 
 #### 1 - Indivíduos e interações mais que processos e ferramentas.
+- Ferramentas e os processos devem ser simples e úteis, bem como as relações entre as pessoas não podem ser afetadas por procedimentos rígidos.
+- Cada pessoa deve ser permitida a contribuir com o seu valor único para o projeto.
+- Uma conversa simples pode resolver diversos problemas se comparada a uma comunicação gerenciada e controlada.
+- Valorizar pessoas em vez de processos.
+
+#### 2. Software em funcionamento mais que documentação abrangente.
+- 
 
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
