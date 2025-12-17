@@ -86,5 +86,24 @@ Planos estabelecidos são importantes, mas devem ser adaptados constantemente.
 11. Auto-organização: As melhores arquiteturas e designs emergem de equipes auto-organizadas.
 12. Reflexão e Adaptação: A equipe reflete regularmente sobre como se tornar mais eficaz e ajusta seu comportamento.
 
+## CARACTERÍSTICAS GERAIS
+### CICLO DE VIDA ITERATIVO E INCREMENTAL
+O desenvolvimento é dividido em ciclos e os requisitos em conjuntos. Cada ciclo deve atender a um conjunto de requisitos, recebendo constante feedback até a sua entrega final. Iterativo significa que o projeto progredirá sendo aprimorado ao longo do processo de desenvolvimento.
+
+### PLANEJAMENTO MAIS ADEQUADO
+Planejamento em ciclos traz maior visibilidade sobre o desenvolvimento e completude dos requisitos.
+
+### ADAPTABILIDADE
+Adaptação a novos problemas e a percepção deles acontecem mais rapidamente.
+
+### MITIGAÇÃO DE RISCOS
+Com feedbacks rápidos, é possível aumentar a previsibilidade de possíveis problemas e contorná-los de maneira mais ágil.
+
+### CADA ENTREGA POSSUI VALOR NO PRODUTO
+- Entrega contínua: o valor da entrega do produto ocorre em cada ciclo de desenvolvimento e não somente no final do projeto.
+
+## VANTAGENS PARA O CLIENTE
+Aplicando as metodologias ágeis, não é necessário planejar de forma sequencial toda a elaboração do projeto, pois as entregas ocorrem periodicamente com feedbacks constantes.
+
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
