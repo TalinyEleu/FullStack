@@ -102,8 +102,11 @@ Com feedbacks rápidos, é possível aumentar a previsibilidade de possíveis pr
 ### CADA ENTREGA POSSUI VALOR NO PRODUTO
 - Entrega contínua: o valor da entrega do produto ocorre em cada ciclo de desenvolvimento e não somente no final do projeto.
 
-## VANTAGENS PARA O CLIENTE
+### VANTAGENS PARA O CLIENTE
 Aplicando as metodologias ágeis, não é necessário planejar de forma sequencial toda a elaboração do projeto, pois as entregas ocorrem periodicamente com feedbacks constantes.
+
+## METODOLOGIAS TRADICIONAIS X ÁGEIS
+![Tradicional X Ágil](imagens/2.png)
 
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
