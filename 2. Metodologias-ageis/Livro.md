@@ -30,5 +30,22 @@ Após os testes e a correção de erros, o produto ou serviço é entregue ao cl
 - Há apenas uma entrega ao fim do projeto, isso determina que o resultado final pode não atender plenamente as expectativas do cliente.
 - Metodologia vista como burocrática e inflexível.
 
+## Metodologias Ágeis
+As metodologias ágeis são um conjunto de comportamentos, processos e ferramentas, utilizados para criar e disponibilizar produtos ou serviços com entregas incrementais (em um ritmo maior), ou seja, desenvolver uma versão inicial, apresentá-la ao cliente e evoluir o produto ou serviço ao longo do tempo, de acordo com o feedback do usuário, com equipes ou times que realizam a autogestão.
+Algumas características:
+- Etapas de desenvolvimento mais curtas.
+- As ações dependem do feedback dos clientes e de possíveis mudanças que podem ocorrer no dia a dia.
+- Desenvolvimento dos projetos mais flexível e colaborativo.
+- Comunicação mais rápida.
+- Identificação e correção de erros mais rápida.
+
+## O MANIFESTO ÁGIL
+Documento elaborado e assinado em fevereiro de 2001 por 17 desenvolvedores de software que ja praticavam métodos ágeis. Esse documento é composto por 4 valores e 12 princípios.
+O Manifesto ágil fundamenta-se nos seguintes valores: 
+1. Indivíduos e interações mais que processos e ferramentas.
+2. Software em funcionamento mais que documentação abrangente.
+3. Colaboração com o cliente mais do que negociação de contratos.
+4. Responder as mudanças mais que seguir um plano.
+
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
