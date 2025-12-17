@@ -47,5 +47,8 @@ O Manifesto ágil fundamenta-se nos seguintes valores:
 3. Colaboração com o cliente mais do que negociação de contratos.
 4. Responder as mudanças mais que seguir um plano.
 
+Detalhamento de cada um dos valores: 
+#### 1 - Indivíduos e interações mais que processos e ferramentas.
+
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
