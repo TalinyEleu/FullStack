@@ -55,8 +55,36 @@ Detalhamento de cada um dos valores:
 - Uma conversa simples pode resolver diversos problemas se comparada a uma comunicação gerenciada e controlada.
 - Valorizar pessoas em vez de processos.
 
-#### 2. Software em funcionamento mais que documentação abrangente.
-- 
+#### 2 - Software em funcionamento mais que documentação abrangente.
+- Documentações devem agregar valor.
+- Um software em funcionamento se enquadra na definição de "pronto", ou seja, se ao menos desenvolvido, testado, integrado e documentado.
+- "Apenas suficiente": é uma descrição positiva, pois significa que o projeto possui apenas o que precisa para atingir a meta, portanto, ser apenas suficiente é o mesmo que ser prática e eficiente.
+- As equipes de projeto dedicam mais tempo ao desenvolvimento e menos à documentação.
+
+#### 3 - Colaboração com o cliente mais do que negociação de contratos.
+- Colaboração mútua e a presença constante do cliente nas etapas de produção. O cliente não é visto como inimigo.
+- Cliente envolvido em três pontos-chave:
+ - Início do projeto: negociação de detalhes do contrato.
+ - Alterações: quando o escopo é alterado durante o projeto.
+ - Fim do projeto: quando a equipe do projeto oferece um produto completo ao cliente. Se o projeto não atende às expectativas, o gerente de projetos e o cliente negociam alterações adicionais ao contrato.
+
+ #### 4. Responder as mudanças mais que seguir um plano.
+Planos estabelecidos são importantes, mas devem ser adaptados constantemente.
+
+### 12 Princípios Ágeis
+
+1. Satisfação do Cliente: Prioridade máxima é satisfazer o cliente por meio da entrega contínua e adiantada de software de valor agregado.
+2. Mudanças Bem-vindas: Aceitar mudanças de requisitos, mesmo tardiamente, para vantagem competitiva do cliente.
+3. Entregas Frequentes: Entregar software funcionando frequentemente (semanas ou meses), priorizando versões menores e com valor.
+4. Colaboração: Pessoas de negócios e desenvolvedores devem trabalhar juntas diariamente.
+5. Indivíduos Motivados: Construir projetos em torno de pessoas motivadas, dando-lhes o ambiente e suporte necessários e confiando nelas.
+6. Comunicação Face a Face: A forma mais eficiente de comunicar é a conversa presencial.
+7. Software Funcionando como Medida: Software funcional é a principal medida de progresso.
+8. Ritmo Sustentável: Manter um ritmo de trabalho constante e sustentável indefinidamente.
+9. Excelência Técnica e Design: Atenção contínua à excelência técnica e bom design aumenta a agilidade.
+10. Simplicidade: Maximizar a quantidade de trabalho não realizado (o essencial) é fundamental.
+11. Auto-organização: As melhores arquiteturas e designs emergem de equipes auto-organizadas.
+12. Reflexão e Adaptação: A equipe reflete regularmente sobre como se tornar mais eficaz e ajusta seu comportamento.
 
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
