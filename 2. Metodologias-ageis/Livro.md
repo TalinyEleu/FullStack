@@ -64,9 +64,9 @@ Detalhamento de cada um dos valores:
 #### 3 - Colaboração com o cliente mais do que negociação de contratos.
 - Colaboração mútua e a presença constante do cliente nas etapas de produção. O cliente não é visto como inimigo.
 - Cliente envolvido em três pontos-chave:
- - Início do projeto: negociação de detalhes do contrato.
- - Alterações: quando o escopo é alterado durante o projeto.
- - Fim do projeto: quando a equipe do projeto oferece um produto completo ao cliente. Se o projeto não atende às expectativas, o gerente de projetos e o cliente negociam alterações adicionais ao contrato.
+ -- Início do projeto: negociação de detalhes do contrato.
+ -- Alterações: quando o escopo é alterado durante o projeto.
+ -- Fim do projeto: quando a equipe do projeto oferece um produto completo ao cliente. Se o projeto não atende às expectativas, o gerente de projetos e o cliente negociam alterações adicionais ao contrato.
 
 #### 4. Responder as mudanças mais que seguir um plano.
 Planos estabelecidos são importantes, mas devem ser adaptados constantemente.
