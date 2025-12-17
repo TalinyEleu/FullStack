@@ -41,6 +41,7 @@ Algumas características:
 
 ## O MANIFESTO ÁGIL
 Documento elaborado e assinado em fevereiro de 2001 por 17 desenvolvedores de software que ja praticavam métodos ágeis. Esse documento é composto por 4 valores e 12 princípios.
+
 O Manifesto ágil fundamenta-se nos seguintes valores: 
 1. Indivíduos e interações mais que processos e ferramentas.
 2. Software em funcionamento mais que documentação abrangente.
