@@ -22,5 +22,13 @@ Ao final da implementação, testa-se o produto ou serviço para certificar ou v
 ## Entrega em Produção
 Após os testes e a correção de erros, o produto ou serviço é entregue ao cliente.
 
+## Pontos negativos
+
+- Metodologia mais detalhada e rígida.
+- Leva mais tempo para execução e implementação do projeto.
+- Dificuldades em cumprir o cronograma e os prazos de entrega.
+- Há apenas uma entrega ao fim do projeto, isso determina que o resultado final pode não atender plenamente as expectativas do cliente.
+- Metodologia vista como burocrática e inflexível.
+
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
