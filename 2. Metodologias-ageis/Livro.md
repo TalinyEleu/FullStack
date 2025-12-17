@@ -68,10 +68,10 @@ Detalhamento de cada um dos valores:
   - Alterações: quando o escopo é alterado durante o projeto.
   - Fim do projeto: quando a equipe do projeto oferece um produto completo ao cliente. Se o projeto não atende às expectativas, o gerente de projetos e o cliente negociam alterações adicionais ao contrato.
 
-#### 4. Responder as mudanças mais que seguir um plano.
+#### 4 - Responder as mudanças mais que seguir um plano.
 Planos estabelecidos são importantes, mas devem ser adaptados constantemente.
 
-### 12 Princípios Ágeis
+#### 12 Princípios Ágeis
 
 1. Satisfação do Cliente: Prioridade máxima é satisfazer o cliente por meio da entrega contínua e adiantada de software de valor agregado.
 2. Mudanças Bem-vindas: Aceitar mudanças de requisitos, mesmo tardiamente, para vantagem competitiva do cliente.
