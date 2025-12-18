@@ -108,5 +108,37 @@ Aplicando as metodologias ágeis, não é necessário planejar de forma sequenci
 ## METODOLOGIAS TRADICIONAIS X ÁGEIS
 ![Tradicional X Ágil](imagens/2.png)
 
+## MÉTODOS ÁGEIS: _SCRUM_, LEAN, KANBAN E XP
+Há diversos tipos de metodologias ágeis, alguns exemplos:
+- Scrum
+- XP
+- Crystal
+- Agile Modeling
+- ASD Adaptive Software Development
+- DSDM Dynamic Solutions Delivery Method
+- FDD Feature Driven Development
+- Lean Development
+- Pragmatic Programming
+- OpenUP
+- Kanban
+
+Todas essas metologias são baseadas na filosofia Agile, porém, cada uma tem características próprias, adequadas para projetos diferentes.
+
+
+### KANBAN
+Em um quadro, são dispostas todas as tarefas escritas em cartões e separadas em colunas.
+![Quadro Kanban](imagens/3.png)
+
+### _SCRUM_
+O projeto é dividido em diversas fases, chamadas _sprints_. Em geral, tem as seguintes características principais:
+- Ênfase no gerenciamento de projetos.
+- Times (equipes) autogerenciáveis.
+- Medição diária de progresso.
+- Evita seguir passos pré-definidos.
+- Demonstração do sistema ao final de cada iteração
+
+![Quadro SCRUM](imagens/4.png)
+
+
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
