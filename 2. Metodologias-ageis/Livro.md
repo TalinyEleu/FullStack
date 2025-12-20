@@ -178,5 +178,7 @@ Seguindo essas etapas, podemos ter um feedback quase imediato sobre o trabalho r
 ### SCRUM FRAMEWORK
 O _Scrum framework_ (ou a estrutura do Scrum) é formado de várias etapas, com nome e objetivos/funções bem delimitados.
 
+![scrum-framework](imagens/8.png)
+
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
