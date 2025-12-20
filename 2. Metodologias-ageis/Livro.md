@@ -269,10 +269,10 @@ Nessas situações, quando a equipe não tem experiência ou conhecimento sobre 
 
 Aqui, as seguintes estratégias ou etapas para a resolução de problemas:
 
--**Identificar o problema:** Identificar e compreender exatamente qual problema ou necessidade precisa ser resolvido e identificar as possíveis causas.
--**Propor hipóteses:** Buscar alternativas que solucionem o problema identificado.
--**Testar as hipóteses:** Experimentar e implementar as alternativas encontradas, antes de desenvolver a solução por completo.
--**Validar resultados:** Analisar os resultados obtidos e escolher a melhor solução.
+- **Identificar o problema:** Identificar e compreender exatamente qual problema ou necessidade precisa ser resolvido e identificar as possíveis causas.
+- **Propor hipóteses:** Buscar alternativas que solucionem o problema identificado.
+- **Testar as hipóteses:** Experimentar e implementar as alternativas encontradas, antes de desenvolver a solução por completo.
+- **Validar resultados:** Analisar os resultados obtidos e escolher a melhor solução.
 
 Dentro da metodologia ágil Scrum, esse período de escolha, testes e busca por conhecimento é chamado de **Spike** (espinho).
 
