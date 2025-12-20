@@ -256,6 +256,27 @@ Depois de esclarecer quem é quem dentro do Scrum Team, vamos especificar melhor
 - completar os itens selecionados para o ciclo (a responsabilidade de entrega é do time e não de uma única pessoa).
 
 ### FERRAMENTAS
+Essas ferramentas são úteis para o gerenciamento, visibilidade e transparência do que está sendo desenvolvido pela equipe. Como exemplo de ferramenta temos o Trello.
+
+### PROBLEMAS SÃO INEVITÁVEIS
+- Ferramentas de trabalho que serão utilizadas, mas não são do domínio da equipe.
+- Não encontrar de imediato a solução para a necessidade ou problema apontado pelo cliente.
+- Não haver especialistas ou consultores para indicar uma solução assertiva para um problema ou que forneça informações sobre uma ferramenta ou assunto.
+
+Nessas situações, quando a equipe não tem experiência ou conhecimento sobre algo especial para o projeto, é necessário um período para pesquisar, aprender e testar soluções.
+
+**Os problemas são inerentes a qualquer tipo de projeto.** No entanto, é possível reduzir os seus impactos, desde que a equipe envolvida esteja preparada para solucioná-los à medida que eles ocorrem.
+
+Aqui, as seguintes estratégias ou etapas para a resolução de problemas:
+
+-**Identificar o problema:** Identificar e compreender exatamente qual problema ou necessidade precisa ser resolvido e identificar as possíveis causas.
+-**Propor hipóteses:** Buscar alternativas que solucionem o problema identificado.
+-**Testar as hipóteses:** Experimentar e implementar as alternativas encontradas, antes de desenvolver a solução por completo.
+-**Validar resultados:** Analisar os resultados obtidos e escolher a melhor solução.
+
+Dentro da metodologia ágil Scrum, esse período de escolha, testes e busca por conhecimento é chamado de **Spike** (espinho).
+
+###
 
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
