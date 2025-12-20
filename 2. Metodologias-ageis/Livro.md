@@ -180,5 +180,43 @@ O _Scrum framework_ (ou a estrutura do Scrum) é formado de várias etapas, com 
 
 ![scrum-framework](imagens/8.png)
 
+#### SPRINT
+Os sprints são os ciclos de entrega, que duram de 2 a 4 semanas. Durante os _sprints_ são desenvolvidos os itens selecionados na sprint planning (reunião de planejamento).
+
+#### PRODUCT BACKLOG
+_Product backlog_ (carteira de produtos) é a lista de funcionalidades brevemente descritas que o produto ou serviço deve apresentar. O product backlog é fracionado e cada parte dele é implementada na respectiva entrega (sprint).
+
+#### SPRINT PLANNING
+_Sprint planning_ (planejamento) é a reunião na qual são selecionadas as funcionalidades do _product backlog_ que serão priorizadas naquele sprint (ciclo). Ocorre sempre no início de cada sprint.
+
+#### SPRINT BACKLOG
+_Sprint backlog_ é a lista de funcionalidades selecionadas do _product backlog_ durante a _sprint planning_. Os itens selecionadas deverão ser desenvolvidos durante a sprint.
+
+#### SCRUM TEAM
+Scrum team é a equipe envolvida no projeto e se compromete a desenvolver os itens selecionados durante a sprint.
+
+#### DAILY MEETING
+_Daily meeting_ é uma reunião diária de cerca de 15 minutos, com o objetivo de esclarecer o que foi realizado no dia anterior, identificar impedimentos e priorizar o que será feito no dia atual.
+
+#### SPRINT REVIEW
+_Sprint review_ é a reunião realizada ao final de cada sprint (ciclo), na qual são apresentadas as funcionalidades ou resultados alcançados da _sprint backlog_.
+
+#### INCREMENT
+O incremento ou mudança de _Backlog_ é a soma de todos os itens selecionados no sprint e que foram completados, somados aos valores de todos os incrementos de todos os ciclos anteriores.
+
+
+Esses itens que foram desenvolvidos ainda podem sofrer ajustes antes de serem considerados finalizados, configurando uma mudança de _backlog_.
+
+#### SPRINT RETROSPECTIVE
+_Sprint retrospective_ é uma reunião interna da Scrum team, realizada ao final de cada sprint. Nesta reunião, são identificados pontos positivos, pontos de melhorias e pontos de ação.
+Lembre-se de que a _sprint retrospective_ é diferente da _sprint review_. Ambas acontecem ao final do sprint, mas a review acontece antes da retrospective. Além disso, a review é apenas uma exposição para o cliente, e a retrospective é uma análise feita pelo _Scrum team_ sobre o próprio trabalho.
+
+#### RELEASE
+_Release_ é a entrega de um ou mais incrementos.
+
+O _Scrum framework_ pode ser dividido entre eventos e artefatos. A sequência de eventos cria uma rotina que garante que todas as ações sejam realizadas. Os artefatos são artifícios criados para auxiliar na concretização dos eventos. A seguir a classificação das etapas do Scrum:
+
+
+
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
