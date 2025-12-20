@@ -216,7 +216,19 @@ _Release_ é a entrega de um ou mais incrementos.
 
 O _Scrum framework_ pode ser dividido entre eventos e artefatos. A sequência de eventos cria uma rotina que garante que todas as ações sejam realizadas. Os artefatos são artifícios criados para auxiliar na concretização dos eventos. A seguir a classificação das etapas do Scrum:
 
+![eventos-artefatos](imagens/9.png)
 
+### SCRUM TEAM
+O _Scrum Team_ é composto pelo _Product Owner_, _Scrum Master_ e o time ou equipe de desenvolvimento.
+
+#### Product Owner (PO)
+O _Product Owner_ (PO) é o dono do projeto, que determina o que e porque fazer. Essa pessoa determina os itens da _backlog_ do produto, ou seja, determina quais atividades ou tarefas serão executadas no _sprint_. O PO auxilia a equipe a ter uma visão clara sobre o objetivo final do produto, mantendo-se disponível para dúvidas.
+
+#### Scrum Master (SM)
+O _Scrum Master_ é aquele que foca em como trabalhar melhor, exercendo o papel de facilitador do time durante o processo de desenvolvimento do projeto. Ele assume a responsabilidade de comunicação e bloqueador de interferências externas e ajuda a equipe na remoção de impedimentos.
+
+#### Team
+O time é a equipe de desenvolvimento. Os integrantes não seguem as restrições de papéis tradicionais (designer, desenvolvedor, por exemplo) e são **multifuncionais**, além de **auto-organizáveis** (atuam de forma autônoma e cooperativa para decidirem a melhor forma de realizar uma determinada tarefa).
 
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
