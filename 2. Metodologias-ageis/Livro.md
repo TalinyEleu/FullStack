@@ -139,6 +139,21 @@ O projeto é dividido em diversas fases, chamadas _sprints_. Em geral, tem as se
 
 ![Quadro SCRUM](imagens/4.png)
 
+### XP 
+A metodologia XP (Extreme Programming, ou programação extrema) é geralmente aplicada para o desenvolvimento de software, apresentando as seguintes características:
+- Ênfase em práticas de desenvolvimento.
+- Ênfase na colaboração.
+- Criação de software o mais rapidamente possível.
+- Valores: comunicação, feedback, simplicidade e coragem.
+- 12 práticas-chave.
+
+![práticas-chave](imagens/5.png)
+
+### LEAN DEVELOPMENT
+A metodologia ágil Lean Development, ou desenvolvimento enxuto, tem por objetivo mapear desperdícios, seja de tempo e recursos, enxugando ou retirando etapas desnecessárias ao desenvolvimento do projeto. Características:
+- Ênfase na redução do desperdício.
+- Entregas rápidas de resultados.
+
 
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
