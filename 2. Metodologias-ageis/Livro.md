@@ -230,5 +230,32 @@ O _Scrum Master_ é aquele que foca em como trabalhar melhor, exercendo o papel 
 #### Team
 O time é a equipe de desenvolvimento. Os integrantes não seguem as restrições de papéis tradicionais (designer, desenvolvedor, por exemplo) e são **multifuncionais**, além de **auto-organizáveis** (atuam de forma autônoma e cooperativa para decidirem a melhor forma de realizar uma determinada tarefa).
 
+O time faz a autogestão e não deve ser tão pequeno que não consiga realizar uma interação, nem tão grande a ponto de gerar complexidade. É comum encontrar times de 4 à 8 pessoas (_Scrum Master_ e _Product Owner_ não estão inclusos nessa contagem).
+
+Esse modelo é projetado para ser versátil, flexível, criativo e produtivo, a fim de garantir que as entregas sejam concluídas nos ciclos determinados.
+
+Depois de esclarecer quem é quem dentro do Scrum Team, vamos especificar melhor quais as responsabilidades de cada um.
+
+#### PRODUCT OWNER (PO)
+É de sua responsabilidadee gerenciar o backlog do produto, que inclui:
+- trazer clareza sobre os itens a serem desenvolvidos;
+- priorizar os itens do product backlog a serem desenvolvidos no ciclo;
+- ser transparente quanto ao objetivo do projeto ao longo do percurso.
+
+#### SCRUM MASTER (SM)
+É de sua responsabilidade:
+- comunicar o objetivo e os itens do backlog do produto ou serviço;
+- criar itens de forma clara e concisa;
+- facilitar os processos de Scrum;
+- remover impedimentos;
+- facilitar os eventos do Scrum (como as reuniões diárias, por exemplo).
+
+#### TEAM
+É de sua responsabilidade:
+- trabalhar cooperativamente e comprometer-se integralmente com as entregas;
+- completar os itens selecionados para o ciclo (a responsabilidade de entrega é do time e não de uma única pessoa).
+
+### FERRAMENTAS
+
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
