@@ -293,6 +293,27 @@ O spike pode ser necessário quando o time:
 - precisa implementar e testar alguma ferramenta nova ou protótipo.
 
 ### DESIGN THINKING
+O Design thinking (pensamento do design) é uma abordagem utilizada para explorar problemas, criando e agrupando diferentes ideias e contextos frente a uma determinada necessidade. Não é um conjunto de regras a serem seguidas.
+
+É bastante utilizado por empresas para se alcançar a solução de um determinado problema e, principalmente, para a criação de novos produtos e serviços.
+
+Essas metodologia propõe 4 etapas: imersão, ideação, prototipação e desenvolvimento.
+
+![design-thinking](imagens/10.png)
+
+#### IMERSÃO
+A imersão é entender o contexto do problema, por meio do levantamento de informações sobre a empresa e o contexto em que ela atua.
+
+#### IDEAÇÃO
+Após o levantamento das informações, o segundo passo é analisá-las e sintetizá-las, compreendendo quais pontos serão melhorados.
+
+Nesse momento, a equipe faz um _brainstorm_ (chuva de ideias) para produzir ideias e gerar _insights_ (discernimento) que vão contribuir para a solução do problema.
+
+#### PROTOTIPAÇÃO
+Nessa fase, a equipe seleciona as melhores ideias com mais chances de sucesso e cria _protótipos_ delas para que sejam testadas e validadas. Não necessariamente aqui a solução estará 100% desenvolvida.
+
+#### DESENVOLVIMENTO
+Após ter validado, entender seus pontos de melhoria e prototipar a solução, é hora de implementar a melhor solução e colocá-la no ar!
 
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
