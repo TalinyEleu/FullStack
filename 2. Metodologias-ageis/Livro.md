@@ -154,6 +154,29 @@ A metodologia ágil Lean Development, ou desenvolvimento enxuto, tem por objetiv
 - Ênfase na redução do desperdício.
 - Entregas rápidas de resultados.
 
+## SCRUM
+Scrum é uma metodologia ágil que propõe práticas de planejamento e gerenciamento para desenvolvimento de projetos de produtos e serviços.
+- 1993: Criação da metodologia pelos engenheiros Jeff Sutherland e Ken Schwaber, na Easel Corporation.
+
+### FUNCIONAMENTO GERAL DO SCRUM
+O Scrum auxilia na definição de objetivos sequenciais que devem ser concluídos dentro de um determinado período. O produto inteiro não será desenvolvido, mas sim uma parte dele será conclúída.
+
+![exemplo-scrum1](imagens/6.png)
+
+Dentro desse intervalo entre entregas, o Scrum segue as seguintes etapas:
+1. **Planejamento:** Seleção dos objetivos a serem atingidos a cada ciclo, priorizando as entregas.
+2. **Desenvolvimento e validação:** Validação diária durante o ciclo, a fim de identificar quais foram suas iterações (progressões) e as possíveis dificuldades.
+
+![exemplo-scrum2](imagens/7.png)
+
+Durante a etapa de **desenvolvimento e validação**, há ainda outro miniciclo contínuo de inspeção e adaptação.
+- **Inspeção:** Identifica a direção do desenvolvimento para evitar desvios.
+- **Adaptação:** Identifica mudanças nos objetivos daquele ciclo e efetiva adaptações.
+
+Seguindo essas etapas, podemos ter um feedback quase imediato sobre o trabalho realizado. Assim, conseguimos analisar se o que foi desenvolvido está de acordo com a proposta de valor apresentadas para aquele ciclo. Além disso, planejamos o próximo passo e também antecipamos possíveis contratempos no andamento do projeto.
+
+### SCRUM FRAMEWORK
+O _Scrum framework_ (ou a estrutura do Scrum) é formado de várias etapas, com nome e objetivos/funções bem delimitados.
 
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
