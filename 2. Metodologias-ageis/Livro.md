@@ -276,7 +276,23 @@ Aqui, as seguintes estratégias ou etapas para a resolução de problemas:
 
 Dentro da metodologia ágil Scrum, esse período de escolha, testes e busca por conhecimento é chamado de **Spike** (espinho).
 
-###
+### O QUE É SPIKE?
+_Spike_, conhecido também como _time-box_, trata-se de uma etapa no desenvolvimento de um projeto em que a equipe busca **compreender melhor uma determinada característica ou requisito técnico, visando reduzir o risco de uma acordagem inadequada e de retrabalho futuro**. Este item é adicionado ao backlog como mais uma tarefa a ser realizada pela equipe.
+
+**O _spike_ ocorre em um período de tempo pré-determinado e limitado**. Ele é importante para testar rápido e falhar rápido, caso necessário.
+
+### QUAL O SEU OBJETIVO?
+O objetivo dessa tarefa é obter confiança, segurança e poupar recursos para implementar novas soluções, prevendo possíveis problemas e estimando o tempo necessário para desenvolver a atividade proposta.
+
+A equipe troca conhecimentos e apresenta o que foi aprendido e desenvolvido. É importante salientar que o objetivo do _spike_ não é tentar encontrar a solução perfeita. Não é algo definitivo, mas explorativo de como realizar as atividades. Ganha-se além disso, valor sobre o tempo que será necessário para desenvolver a história e encontrar possíveis impedimentos.
+
+O spike pode ser necessário quando o time:
+- não possui conhecimento sobre algum assunto ou ferramenta essencial ao projeto;
+- precisa descobrir novas possíveis soluções.
+- deve escolher entre duas soluções distintas.
+- precisa implementar e testar alguma ferramenta nova ou protótipo.
+
+### DESIGN THINKING
 
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
